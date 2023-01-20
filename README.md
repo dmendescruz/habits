@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um aplicativo para ajudar a rastrear hábitos e criar uma rotina diária.
 
-- [Acesse o projeto finalizado, online](https://dmendescruz.github.io/nlw-setup)
+- [Acesse o projeto finalizado, online](https://dmendescruz.github.io/habits/)
 
 ## 🔖 Layout
 
